@@ -119,7 +119,7 @@ After looking at frequency graphs for forest fires during each month and day of 
 
 
 ```{r}
-#this function allows us to plot mutiple graph with different x_variables
+#this function allows us to plot multiple graph with different x_variables
 create_boxplot <- function(x,y){
   ggplot(data = forest_fires) +
     aes_string(x = x, y = y) +
