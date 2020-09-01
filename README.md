@@ -1,5 +1,5 @@
 
-#Analyzing Forest Fires Data (R Fundamentals)
+# Analyzing Forest Fires Data (R Fundamentals)
 
 # Introduction
 
